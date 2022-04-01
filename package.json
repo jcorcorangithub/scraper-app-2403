@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jcorcorangithub/scraper-app-2403/issues"
   },
-  "homepage": "https://github.com/jcorcorangithub/scraper-app-2403#readme"
+  "homepage": "https://github.com/jcorcorangithub/scraper-app-2403#readme",
+  "dependencies": {
+    "puppeteer": "^13.5.1"
+  }
 }
