@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jcorcorangithub/scraper-app-2403#readme",
   "dependencies": {
+    "axios": "^0.26.1",
+    "node-fetch": "^2.6.7",
     "puppeteer": "^13.5.1"
   }
 }
