@@ -19,6 +19,8 @@
   "dependencies": {
     "axios": "^0.26.1",
     "node-fetch": "^2.6.7",
-    "puppeteer": "^13.5.1"
+    "pdfreader": "^1.4.0",
+    "puppeteer": "^13.5.1",
+    "type": "module"
   }
 }
